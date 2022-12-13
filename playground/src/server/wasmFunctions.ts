@@ -1,0 +1,1 @@
+../../../typescript_utilities/src/wasmFunctions.ts

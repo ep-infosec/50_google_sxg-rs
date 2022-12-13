@@ -1,0 +1,9 @@
+234a235,238
+>   if (typeof instantUrlModifier === 'function') {
+>     url = instantUrlModifier(url);
+>   }
+> 
+241a246,248
+>   if (typeof instantLinkModifier === 'function') {
+>     instantLinkModifier(prefetcher);
+>   }
